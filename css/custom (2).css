@@ -1,0 +1,5 @@
+/* html {font-size: 20px;} */
+
+/* h1 {font-size: 3rem;} */
+
+:root,[data-bs-theme=light]{--bs-dark-rgb:120, 212, 62;}
